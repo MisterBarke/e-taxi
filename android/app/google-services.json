@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1077638208973",
+    "project_id": "kanovtc1",
+    "storage_bucket": "kanovtc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077638208973:android:9cbd3bc1f2fb6a914d3884",
+        "android_client_info": {
+          "package_name": "com.kano.kano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077638208973-2rculrl5dgoe7h64v7gatgek7khdbank.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kano.kano",
+            "certificate_hash": "0adf244536948038dfe7c3a1b4a2f685fb007df0"
+          }
+        },
+        {
+          "client_id": "1077638208973-8j9dcdkpg3uba6dutbq91gl2nosq25t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kano.kano",
+            "certificate_hash": "9a54449d2b3a84b9959e20a62a77953b22aa53f7"
+          }
+        },
+        {
+          "client_id": "1077638208973-auril1kvh4ga7p17cu2df8dstph9ka67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kano.kano",
+            "certificate_hash": "f77b2c8274aedb676ee6c1a9d23e9c587d3d536e"
+          }
+        },
+        {
+          "client_id": "1077638208973-i888jfssjvpbl9mrvk42ec3go0g7d71d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kano.kano",
+            "certificate_hash": "220c6a67527096a90e502170764b4ec563bcfbcd"
+          }
+        },
+        {
+          "client_id": "1077638208973-s60sn4opi1kijfguqpg1ocru6vrti6u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kano.kano",
+            "certificate_hash": "c835eadd9cec13c4fb73ef9a8ef8a390eac5e962"
+          }
+        },
+        {
+          "client_id": "1077638208973-hk269m5hfq0ddupp75vkm9d6javmrcvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnG5mYAr7z2XfvaPz_WRstyKvXx4KjZaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077638208973-hk269m5hfq0ddupp75vkm9d6javmrcvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077638208973-dfdou4nu7fdrg2daqvngkicu3o5pbptq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kano.kanoDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077638208973:android:f83aaf7c7f5f05544d3884",
+        "android_client_info": {
+          "package_name": "com.kano.kano_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077638208973-peaofb2an11qprhp7eekpf7meldhc09q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kano.kano_driver",
+            "certificate_hash": "d04f97910d746b243bf01cef21513fbae7e2f69f"
+          }
+        },
+        {
+          "client_id": "1077638208973-hk269m5hfq0ddupp75vkm9d6javmrcvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnG5mYAr7z2XfvaPz_WRstyKvXx4KjZaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077638208973-hk269m5hfq0ddupp75vkm9d6javmrcvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077638208973-dfdou4nu7fdrg2daqvngkicu3o5pbptq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kano.kanoDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
